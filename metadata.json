@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "A professional multilingual AI assistant powered by Gemini with chat history, dark mode, and full support for Urdu, Hindi, and English.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
